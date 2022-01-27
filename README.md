@@ -21,4 +21,4 @@ python password.py
 Then you just need to follow what the script will ask you.
 
 ## 👍 Result
-![result](https://gcdn.pbrd.co/images/ciFi2rWJc3HW.png?o=1)
+![result](image/result.png)
